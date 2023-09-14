@@ -3,7 +3,7 @@ PRIVACY NOTICE & TERMS AND CONDITIONS
 Last updated Aug 21, 2023
 
 0: General
-This workout checklist app (The App) is not meant to be a diagnostic tool of any kind and is meant only to keep track of tasks completed.  It is not intended to be a health or wellness aid.  Please exersice all appropriate caution while participating in physical activity.
+This daily quiz app (The App) is not meant to be a subistitue for any school or class and is ment for self directed study to supliment other learningh activities.
 
 1: Google Collected Data
 a: Playstore disclamer
