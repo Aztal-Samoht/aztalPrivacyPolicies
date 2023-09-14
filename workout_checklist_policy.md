@@ -5,7 +5,7 @@ Last updated Aug 21, 2023
 0: General
 This workout checklist app (The App) is not meant to be a diagnostic tool of any kind and is meant only to keep track of tasks completed.  It is not intended to be a health or wellness aid.  Please exersice all appropriate caution while participating in physical activity.
 
-1: Google Colected Data
+1: Google Collected Data
 a: Playstore disclamer
 The App does not directly collect any information about its usage or users. Google Play Store does report downloads and some usage data (number of times downloaded, devices it has been downloaded to, et cetera, please see the playstore's privacy policy for details). Additionally if a user has personalized google ads enabled on their device Google may collect ad interaction data during use of this mobile app. For details on the collection and usage of such data please refer to their privacy policy.
 
