@@ -1,6 +1,6 @@
 PRIVACY NOTICE & TERMS AND CONDITIONS
 
-Last updated Aug 21, 2023
+Last updated Jan 20, 2024
 
 0: General
 This pharmacy calculator app (The App) is not meant to be a diagnostic tool of any kind and is meant only to be an aid in calculations.  It is not intended to be a health or wellness aid.  Please exersice all appropriate caution while using this app and double check all calculations manually.
